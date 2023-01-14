@@ -1,4 +1,4 @@
-## *Args and **Kwargs in Python
+# *Args and **Kwargs in Python
 
 # What is Args and Kwargs?
 
