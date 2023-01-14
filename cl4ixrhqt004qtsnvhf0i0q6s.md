@@ -1,4 +1,4 @@
-## Everything you need to know about Arrays in Python
+# Everything you need to know about Arrays in Python
 
 # This article will teach you how to use arrays more efficiently when writing codes in Python.
 
