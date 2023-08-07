@@ -13,8 +13,7 @@ tags: databases, blockchain, decentralization, 2articles1week, weavedb
 
 In the rapidly evolving landscape of blockchain technology, the need for true decentralization is paramount. While web3 decentralized applications (dapps) may harness the power of blockchain for trust and transparency, they often encounter a challenge when it comes to data storage. Many still rely on centralized web2 databases, which introduces a level of centralization and dependency on single entities. However, the answer to this conundrum lies in WeaveDB – a NoSQL database powered by [Warp](https://warp.cc/) Contracts on the [Arweave](https://arweave.org/) blockchain.
 
-##   
-**What Is WeaveDB:**
+## **What Is WeaveDB:**
 
 WeaveDB is a decentralized database that revolutionizes data storage in the web3 world by providing a layer that ensures scalability, speed, and, most importantly, true decentralization. WeaveDB functions as a smart contract on the [Arweave](https://arweave.org/) blockchain, merging the best features of conventional centralized databases with the decentralized capabilities of the blockchain.
 
